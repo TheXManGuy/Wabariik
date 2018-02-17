@@ -11,15 +11,14 @@
 # - %percentage% - Percentage of the winning, useful for "Chance Message".
 
 Prefix: '&2&lLoosikast >'
-Command No Permission: '&cYou do not have the correct permission to run this command'
-Crate No Permission: '&cYou do not have the correct permission to use this crate'
+Command No Permission: '&cTeil ei ole korrektset käsku selle käskluse jaoks'
+Crate No Permission: '&cSul ei ole õigusi selle kasti jaoks.'
 Crate Open Without Key: '&cSul on vaja kasti %crate% &cvõtit, et seda avada.'
 Key Given: '&aSulle anti kasti %crate% &avõti.'
 Broadcast: '&d%displayname% &dopened a %crate% &dcrate'
 Cant Place: '&cKastide võtmeid ei saa maha panna.'
 Cant Drop: '&cKastide võtmeid ei saa maha visata.'
 Chance Message: '&d%percentage%% võimalus'
-Inventory Full Claim: '&aYou''re inventory is full, you can claim your keys later
-  using /crate'
-Claim Join: '&aYou currently have keys waiting to be claimed, use /crate to claim'
+Inventory Full Claim: '&aSinu seljakott on täis, te saate need võtmed broneerida kasutades /crate'
+Claim Join: '&aSul on praegu võtmeid mida broneerida, et broneerida kasuta käsku /crate'
 Possible Wins Title: '| Võimalik võita:'
