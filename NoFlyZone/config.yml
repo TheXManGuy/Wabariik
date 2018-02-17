@@ -3,8 +3,8 @@
 # List regions below that will disable players from flying when they enter them
 
 no_fly_worlds: []
-no_fly_message: '&cNo flying here!'
-auto_fly_message: '&aYour flight has been toggled on!'
+no_fly_message: '&cÄra lenda siin!'
+auto_fly_message: '&aSinu automaatne lend on sees!'
 no_fly_regions:
   world:
   - dropparty
