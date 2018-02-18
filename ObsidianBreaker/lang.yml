@@ -1,8 +1,8 @@
-DURABILITY: '&6Durability:'
-DURABILITY_LEFT: '&3{0} &6of &3{1}'
-UNLIMITED: '&3Unlimited'
-UNLIMITED_VOID: '&3Unlimited (Void Protection)'
-NO_PERMISSION: '&4No permission!'
-INVALID_ARGUMENTS: '&4Invalid arguments!'
+DURABILITY: '&6Vastupidavus:'
+DURABILITY_LEFT: '&3{0} &6sellest &3{1}'
+UNLIMITED: '&3Lõpmatu'
+UNLIMITED_VOID: '&3Lõpmatu'
+NO_PERMISSION: '&4Pole volitusi!'
+INVALID_ARGUMENTS: '&4Valed argumendid!'
 CONFIG_RELOADED: '&6Config reloaded!'
-RELOAD_CONFIG: Reload the config
+RELOAD_CONFIG: Taaskäivita konfiguratsjoon
