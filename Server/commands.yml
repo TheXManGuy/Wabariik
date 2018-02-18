@@ -12,24 +12,25 @@ aliases:
   lõpukirst:
   - ec
   ravi:
-  - heal
+  - heal $5-
   töölaud:
   - wb
   lähedal:
-  - near
+  - near $10-
   tagasi:
   - back
   külasta:
-  - tpa $1-
+  - tpa $10-
   lõim:
   - warp
   paranda:
-  - repair
+  - repair $10-
   ehita:
   - rc
   vaatle:
-  - spectate $1-
+  - spectate $10-
   lõimud:
   - warps
   lõim:
-  - warp $1-
+  - warp $10-
+  
