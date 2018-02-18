@@ -28,7 +28,7 @@ server-name: "&2&lLõimud > "
 #Messages to be sent
 messages:
   warp:
-    other: "&a You have warped &c{target}&a to &c{warp}."
+    other: "&aSa viisid &c{target}&a &c{warp} lõimu."
     cancelled: "&cTeleportimine on katkestatud."
     completed: "&aSind teleporditi lõimu {warp}."
     delayed: "&eSind teleporditakse lõimu &l{delay} &esekundi pärast."
@@ -36,8 +36,8 @@ messages:
     set: "&aLõim {warp} on tehtud."
     list: "&e&lLõimude nimekiri ({page}/{pages}):"
     no-permission:
-    - "&cError: You do not have permission to use this warp."
-    - "&c -> To list available warps, use /warps"
+    - "&cViga: Sul ei ole selle lõimu jaoks volitusi."
+    - "&c -> Et näha kasutatavaid lõime, kasuta /lõimud"
   error:
     illegal-char: "&cSelline nimi on ebasobiv."
     no-warp:
@@ -48,11 +48,11 @@ messages:
     - "&eLõimude vaatamiseks kasuta käsku /lõimud."
     no-permission: "&cSul pole selleks piisavalt õigusi."
     no-page: "&cKasutamine: /lõimud <nr>"
-    no-player: "&cError: Player not found."
-    not-player: "&cError: You must be a player to do this."
+    no-player: "&cViga: Mängjat ei leitud."
+    not-player: "&cViga: Sa pead olema mängja, et seda teha."
     cannot-overwrite: "&cSellise nimega lõim on juba olemas."
   config:
-    reloaded: "&a Config reloaded."
+    reloaded: "&aKonfiguratsjoon taaslaetud."
 
 #Example of multi-lined message
 #  example:
