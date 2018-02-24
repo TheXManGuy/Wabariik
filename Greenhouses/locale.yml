@@ -4,23 +4,23 @@
 # If this file is deleted, then it will be recreate at the next reload.                   #
 ###########################################################################################
 general:
-   notavailable: "Greenhouses are not available in this world"
+   notavailable: "Kasvuhooned ei ole siin maailmas lubatud"
    greenhouses: "Kasvuhooned"
    biome: "Bioom"
    owner: "Omanik"
 
 help:
-   help: "help"
-   make: "Tries to make a greenhouse"
-   remove: "Removes a greenhouse that you are standing in if you are the owner"
-   info: "How to make a greenhouse"
-   list: "Lists all the greenhouse biomes that can be made"
-   recipe: "Tells you how to make greenhouse biome"
+   help: "abi"
+   make: "Proovib teha kasvuhoonet"
+   remove: "Eemaldab kasvuhoone kui oled selle omanik"
+   info: "Kuidas teha kasvuhoonet"
+   list: "Nimekiri kõikidest kasvuhoonete pindadest"
+   recipe: "Ütleb kuidas teha kasvuhoonet"
    opengui: "Opens the Greenhouse GUI"
 
 list:
-   title: "[Greenhouse Biome Recipes]"
-   info: "Use /greenhouse recipe <number> to see details on how to make each greenhouse"
+   title: "[Kasvuhoone tegemine]"
+   info: "Kasuta /greenhouse recipe <number>, et vaadata detaile kuidas teha kasvuhoonet"
 
 
 ################
